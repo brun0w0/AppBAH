@@ -40,3 +40,10 @@ footer p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     letter-spacing: 1px;
 }
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    height: auto;
+}
